@@ -1,8 +1,14 @@
 ---
 layout: post
-title: Test markdown
+title: New website hosted on github pages
 subtitle: Each post also has a subtitle
+published: true
 ---
+
+I have just created this new website based Jekyll, the [beautiful-jekyll/] (http://deanattali.com/beautiful-jekyll/) theme and hosted on Github pages.
+
+
+## Examples of Markdown
 
 You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
