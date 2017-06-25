@@ -1,11 +1,11 @@
 ---
 layout: post
 title: New website hosted on github pages
-subtitle: Each post also has a subtitle
+subtitle: Highly recommended
 published: true
 ---
 
-I have just created this new website based Jekyll, the [beautiful-jekyll/] (http://deanattali.com/beautiful-jekyll/) theme and hosted on Github pages.
+I have just created this new website based Jekyll, the [beautiful-jekyll](http://deanattali.com/beautiful-jekyll/) theme and hosted on Github pages.
 
 
 ## Examples of Markdown
